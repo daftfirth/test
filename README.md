@@ -1,3 +1,3 @@
 # This is also a header
-## This is a header
-### This is another header
+## This is a secondary header
+### This is a tertiary header
